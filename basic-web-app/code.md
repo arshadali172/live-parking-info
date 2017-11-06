@@ -1,5 +1,39 @@
+
+
+
+
+
+
+
 # Build your own parking app
 
+---
+
+# Overview of Our Parking App
+
+1. Display an postalcode input box
+
+1. Postalcode        -> (X,Y) Coordinates
+
+1. (X,Y) Coordinates -> List of 10 closest carparks
+
+1. Add in real-time carpark availability
+
+^ Display parking-04 to class
+
+---
+
+# Building Blocks of Our Parking App
+
+* Web Development
+  - HTML
+  - Javascript
+  - Frameworks
+  - Key Coding Concepts
+* Using Libraries
+  - API Calls
+  - Debugging
+  - Logic 
 ---
 
 # Title
