@@ -29,8 +29,8 @@
   - HTML
   - Javascript
   - Frameworks
-  - Key Coding Concepts
-* Using Libraries
+* Key Coding Concepts
+  - Using Libraries
   - API Calls
   - Debugging
   - Logic 
